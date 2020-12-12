@@ -1,0 +1,1 @@
+Aquí podemos encontrar tanto el código de los tres dispositivos como el esquema de conexiones de los mismos, el código de cada uno de los dispositivos se puede encontrar en las carpetas individuales de estos, TARTA-Pulsera, TARTA-Servidor y TARTA-Autorregulación, y los diseños de las conexiones se encuentran en la carpeta esquema de conexiones
